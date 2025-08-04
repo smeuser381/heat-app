@@ -1,0 +1,28 @@
+Discipleship Questions for Database
+	1.	What is your full name?
+_____
+	2.	What is your gender? 
+Male / Female
+	3.	What is your current address?
+___________
+	4.	How can we contact you? 
+Email / Phone / WhatsApp
+	5.	What is your date of birth (without the year)?
+__/____
+	6.	Are you currently being discipled? 
+(Yes / No)
+	7.	Who is discipling you (if anyone)? (Provide their name or indicate “None”)
+____________
+	8.	What level of discipleship are you currently on?
+	•	Preparatory
+	•	Foundation
+	•	Growth
+	•	Maturity
+	9.	How many disciples do you have?
+________-
+	10.	What is your ministry gift?
+	•	Evangelist
+	•	Pastor
+	•	Teacher
+	•	Prophet
+	•	Apostle
